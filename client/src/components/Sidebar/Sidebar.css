@@ -1,0 +1,4 @@
+.category_class:hover {
+    background-color: aqua;
+    user-select: none;
+}
